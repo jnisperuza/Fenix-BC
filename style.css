@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Fenix-BC';
-  src:  url('fonts/Fenix-BC.eot?gajx6t');
-  src:  url('fonts/Fenix-BC.eot?gajx6t#iefix') format('embedded-opentype'),
-    url('fonts/Fenix-BC.ttf?gajx6t') format('truetype'),
-    url('fonts/Fenix-BC.woff?gajx6t') format('woff'),
-    url('fonts/Fenix-BC.svg?gajx6t#Fenix-BC') format('svg');
+  src:  url('fonts/Fenix-BC.eot?yvmt5r');
+  src:  url('fonts/Fenix-BC.eot?yvmt5r#iefix') format('embedded-opentype'),
+    url('fonts/Fenix-BC.ttf?yvmt5r') format('truetype'),
+    url('fonts/Fenix-BC.woff?yvmt5r') format('woff'),
+    url('fonts/Fenix-BC.svg?yvmt5r#Fenix-BC') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -31,19 +31,19 @@
 .fenix-icon-loader:before {
   content: "\e90f";
 }
-.fenix-icon-ico-textarea:before {
+.fenix-icon-textarea:before {
   content: "\e90d";
 }
-.fenix-icon-icon-excel:before {
+.fenix-icon-excel:before {
   content: "\e90c";
 }
-.fenix-icon-icon-check-box:before {
+.fenix-icon-check-box:before {
   content: "\e90b";
 }
-.fenix-icon-icon-chart-up-line:before {
+.fenix-icon-chart-up-line:before {
   content: "\e90a";
 }
-.fenix-icon-icon-users-check:before {
+.fenix-icon-users-check:before {
   content: "\e909";
 }
 .fenix-icon-eye-closed:before {
@@ -52,11 +52,11 @@
 .fenix-icon-eye-opened:before {
   content: "\e908";
 }
-.fenix-icon-icon-info-black .path1:before {
+.fenix-icon-info-black .path1:before {
   content: "\e905";
   color: rgb(0, 68, 141);
 }
-.fenix-icon-icon-info-black .path2:before {
+.fenix-icon-info-black .path2:before {
   content: "\e906";
   margin-left: -1.0625em;
   color: rgb(44, 42, 41);
@@ -64,10 +64,10 @@
 .fenix-icon-calling:before {
   content: "\e904";
 }
-.fenix-icon-ico-star:before {
+.fenix-icon-star:before {
   content: "\e903";
 }
-.fenix-icon-ico-investment:before {
+.fenix-icon-investment1:before {
   content: "\e901";
 }
 .fenix-icon-srch-motorcycle:before {

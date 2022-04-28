@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?gajx6t');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?gajx6t#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?gajx6t') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?gajx6t') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?gajx6t##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?yvmt5r');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?yvmt5r#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?yvmt5r') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?yvmt5r') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?yvmt5r##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -37,29 +37,29 @@
     content: $fenix-icon-loader; 
   }
 }
-.fenix-icon-ico-textarea {
+.fenix-icon-textarea {
   &:before {
-    content: $fenix-icon-ico-textarea; 
+    content: $fenix-icon-textarea; 
   }
 }
-.fenix-icon-icon-excel {
+.fenix-icon-excel {
   &:before {
-    content: $fenix-icon-icon-excel; 
+    content: $fenix-icon-excel; 
   }
 }
-.fenix-icon-icon-check-box {
+.fenix-icon-check-box {
   &:before {
-    content: $fenix-icon-icon-check-box; 
+    content: $fenix-icon-check-box; 
   }
 }
-.fenix-icon-icon-chart-up-line {
+.fenix-icon-chart-up-line {
   &:before {
-    content: $fenix-icon-icon-chart-up-line; 
+    content: $fenix-icon-chart-up-line; 
   }
 }
-.fenix-icon-icon-users-check {
+.fenix-icon-users-check {
   &:before {
-    content: $fenix-icon-icon-users-check; 
+    content: $fenix-icon-users-check; 
   }
 }
 .fenix-icon-eye-closed {
@@ -72,15 +72,15 @@
     content: $fenix-icon-eye-opened; 
   }
 }
-.fenix-icon-icon-info-black .path1 {
+.fenix-icon-info-black .path1 {
   &:before {
-    content: $fenix-icon-icon-info-black-path1;  
+    content: $fenix-icon-info-black-path1;  
     color: rgb(0, 68, 141);
   }
 }
-.fenix-icon-icon-info-black .path2 {
+.fenix-icon-info-black .path2 {
   &:before {
-    content: $fenix-icon-icon-info-black-path2;  
+    content: $fenix-icon-info-black-path2;  
     margin-left: -1.0625em;  
     color: rgb(44, 42, 41);
   }
@@ -90,14 +90,14 @@
     content: $fenix-icon-calling; 
   }
 }
-.fenix-icon-ico-star {
+.fenix-icon-star {
   &:before {
-    content: $fenix-icon-ico-star; 
+    content: $fenix-icon-star; 
   }
 }
-.fenix-icon-ico-investment {
+.fenix-icon-investment1 {
   &:before {
-    content: $fenix-icon-ico-investment; 
+    content: $fenix-icon-investment1; 
   }
 }
 .fenix-icon-srch-motorcycle {
