@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?rin8ut');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?rin8ut#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?rin8ut') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?rin8ut') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?rin8ut##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?gajx6t');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?gajx6t#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?gajx6t') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?gajx6t') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?gajx6t##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -27,14 +27,14 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.fenix-icon-loader {
-  &:before {
-    content: $fenix-icon-loader; 
-  }
-}
 .fenix-icon-shopping-cart {
   &:before {
     content: $fenix-icon-shopping-cart; 
+  }
+}
+.fenix-icon-loader {
+  &:before {
+    content: $fenix-icon-loader; 
   }
 }
 .fenix-icon-ico-textarea {

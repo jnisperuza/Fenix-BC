@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Fenix-BC';
-  src:  url('fonts/Fenix-BC.eot?rin8ut');
-  src:  url('fonts/Fenix-BC.eot?rin8ut#iefix') format('embedded-opentype'),
-    url('fonts/Fenix-BC.ttf?rin8ut') format('truetype'),
-    url('fonts/Fenix-BC.woff?rin8ut') format('woff'),
-    url('fonts/Fenix-BC.svg?rin8ut#Fenix-BC') format('svg');
+  src:  url('fonts/Fenix-BC.eot?gajx6t');
+  src:  url('fonts/Fenix-BC.eot?gajx6t#iefix') format('embedded-opentype'),
+    url('fonts/Fenix-BC.ttf?gajx6t') format('truetype'),
+    url('fonts/Fenix-BC.woff?gajx6t') format('woff'),
+    url('fonts/Fenix-BC.svg?gajx6t#Fenix-BC') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,10 +25,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.fenix-icon-loader:before {
+.fenix-icon-shopping-cart:before {
   content: "\e90e";
 }
-.fenix-icon-shopping-cart:before {
+.fenix-icon-loader:before {
   content: "\e90f";
 }
 .fenix-icon-ico-textarea:before {
