@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Fenix-BC';
-  src:  url('fonts/Fenix-BC.eot?yvmt5r');
-  src:  url('fonts/Fenix-BC.eot?yvmt5r#iefix') format('embedded-opentype'),
-    url('fonts/Fenix-BC.ttf?yvmt5r') format('truetype'),
-    url('fonts/Fenix-BC.woff?yvmt5r') format('woff'),
-    url('fonts/Fenix-BC.svg?yvmt5r#Fenix-BC') format('svg');
+  src:  url('fonts/Fenix-BC.eot?27q6hp');
+  src:  url('fonts/Fenix-BC.eot?27q6hp#iefix') format('embedded-opentype'),
+    url('fonts/Fenix-BC.ttf?27q6hp') format('truetype'),
+    url('fonts/Fenix-BC.woff?27q6hp') format('woff'),
+    url('fonts/Fenix-BC.svg?27q6hp#Fenix-BC') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,57 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.fenix-icon-car-hatchback:before {
+  content: "\e910";
+}
+.fenix-icon-car-minivan:before {
+  content: "\e911";
+}
+.fenix-icon-car-pickup:before {
+  content: "\e912";
+}
+.fenix-icon-car-sedan:before {
+  content: "\e913";
+}
+.fenix-icon-car-suv:before {
+  content: "\e914";
+}
+.fenix-icon-bike-electric:before {
+  content: "\e915";
+}
+.fenix-icon-bike-mountain:before {
+  content: "\e916";
+}
+.fenix-icon-bike-road:before {
+  content: "\e917";
+}
+.fenix-icon-bike-vintage:before {
+  content: "\e918";
+}
+.fenix-icon-bike:before {
+  content: "\e919";
+}
+.fenix-icon-motorcycle-cross:before {
+  content: "\e91a";
+}
+.fenix-icon-motorcycle-quad:before {
+  content: "\e91b";
+}
+.fenix-icon-motorcycle-scooter:before {
+  content: "\e91c";
+}
+.fenix-icon-motorcycle-sport:before {
+  content: "\e91d";
+}
+.fenix-icon-motorcycle-touring:before {
+  content: "\e91e";
+}
+.fenix-icon-motorcycle-trailer:before {
+  content: "\e91f";
+}
+.fenix-icon-motorcycle1:before {
+  content: "\e920";
+}
 .fenix-icon-shopping-cart:before {
   content: "\e90e";
 }
@@ -52,107 +103,14 @@
 .fenix-icon-eye-opened:before {
   content: "\e908";
 }
-.fenix-icon-info-black .path1:before {
-  content: "\e905";
-  color: rgb(0, 68, 141);
-}
-.fenix-icon-info-black .path2:before {
-  content: "\e906";
-  margin-left: -1.0625em;
-  color: rgb(44, 42, 41);
-}
 .fenix-icon-calling:before {
   content: "\e904";
 }
 .fenix-icon-star:before {
   content: "\e903";
 }
-.fenix-icon-investment1:before {
-  content: "\e901";
-}
-.fenix-icon-srch-motorcycle:before {
-  content: "\e902";
-}
-.fenix-icon-srch-bike:before {
-  content: "\e900";
-}
-.fenix-icon-editar:before {
+.fenix-icon-edit:before {
   content: "\bc365";
-}
-.fenix-icon-bmx:before {
-  content: "\bc000";
-}
-.fenix-icon-electrica:before {
-  content: "\bc001";
-}
-.fenix-icon-montaa:before {
-  content: "\bc002";
-}
-.fenix-icon-nios:before {
-  content: "\bc003";
-}
-.fenix-icon-otros:before {
-  content: "\bc004";
-}
-.fenix-icon-plegable:before {
-  content: "\bc005";
-}
-.fenix-icon-ruta:before {
-  content: "\bc006";
-}
-.fenix-icon-urbana:before {
-  content: "\bc007";
-}
-.fenix-icon-camioneta:before {
-  content: "\bc008";
-}
-.fenix-icon-coupe:before {
-  content: "\bc010";
-}
-.fenix-icon-hatchback:before {
-  content: "\bc011";
-}
-.fenix-icon-minivan:before {
-  content: "\bc012";
-}
-.fenix-icon-otros1:before {
-  content: "\bc013";
-}
-.fenix-icon-pickup:before {
-  content: "\bc014";
-}
-.fenix-icon-sedan:before {
-  content: "\bc015";
-}
-.fenix-icon-suv:before {
-  content: "\bc016";
-}
-.fenix-icon-chopper:before {
-  content: "\bc017";
-}
-.fenix-icon-cuatrimoto:before {
-  content: "\bc018";
-}
-.fenix-icon-deportiva:before {
-  content: "\bc019";
-}
-.fenix-icon-enduro:before {
-  content: "\bc020";
-}
-.fenix-icon-moto-calle:before {
-  content: "\bc021";
-}
-.fenix-icon-otros2:before {
-  content: "\bc022";
-}
-.fenix-icon-scooter:before {
-  content: "\bc023";
-}
-.fenix-icon-touring:before {
-  content: "\bc024";
-}
-.fenix-icon-d:before {
-  content: "\bc025";
 }
 .fenix-icon-accepted-card:before {
   content: "\bc026";
@@ -169,7 +127,7 @@
 .fenix-icon-add-user:before {
   content: "\bc030";
 }
-.fenix-icon-add_square:before {
+.fenix-icon-add-square:before {
   content: "\bc031";
 }
 .fenix-icon-add-doc:before {
@@ -208,7 +166,7 @@
 .fenix-icon-analytics:before {
   content: "\bc043";
 }
-.fenix-icon-Approving-User:before {
+.fenix-icon-approving-user:before {
   content: "\bc044";
 }
 .fenix-icon-arrow2-down:before {
@@ -297,9 +255,6 @@
 }
 .fenix-icon-benefits:before {
   content: "\bc073";
-}
-.fenix-icon-bicycle:before {
-  content: "\bc074";
 }
 .fenix-icon-bill:before {
   content: "\bc075";
@@ -480,7 +435,7 @@
 .fenix-icon-desktop:before {
   content: "\bc132";
 }
-.fenix-icon-Direct-User:before {
+.fenix-icon-direct-user:before {
   content: "\bc133";
 }
 .fenix-icon-directions:before {
@@ -864,7 +819,7 @@
 .fenix-icon-performance:before {
   content: "\bc261";
 }
-.fenix-icon-Person-walking:before {
+.fenix-icon-person-walking:before {
   content: "\bc262";
 }
 .fenix-icon-pet:before {
@@ -906,25 +861,25 @@
 .fenix-icon-product-number:before {
   content: "\bc275";
 }
-.fenix-icon-producto-destino:before {
+.fenix-icon-destination-product:before {
   content: "\bc276";
 }
-.fenix-icon-producto-origen:before {
+.fenix-icon-origin-product:before {
   content: "\bc277";
 }
 .fenix-icon-puntos-colombia:before {
   content: "\bc278";
 }
-.fenix-icon-QR-add:before {
+.fenix-icon-qr-add:before {
   content: "\bc279";
 }
-.fenix-icon-QR-heart:before {
+.fenix-icon-qr-heart:before {
   content: "\bc280";
 }
-.fenix-icon-QR-scan:before {
+.fenix-icon-qr-scan:before {
   content: "\bc281";
 }
-.fenix-icon-QR-send:before {
+.fenix-icon-qr-send:before {
   content: "\bc282";
 }
 .fenix-icon-quit:before {
