@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Fenix-BC';
-  src:  url('fonts/Fenix-BC.eot?27q6hp');
-  src:  url('fonts/Fenix-BC.eot?27q6hp#iefix') format('embedded-opentype'),
-    url('fonts/Fenix-BC.ttf?27q6hp') format('truetype'),
-    url('fonts/Fenix-BC.woff?27q6hp') format('woff'),
-    url('fonts/Fenix-BC.svg?27q6hp#Fenix-BC') format('svg');
+  src:  url('fonts/Fenix-BC.eot?y98tfo');
+  src:  url('fonts/Fenix-BC.eot?y98tfo#iefix') format('embedded-opentype'),
+    url('fonts/Fenix-BC.ttf?y98tfo') format('truetype'),
+    url('fonts/Fenix-BC.woff?y98tfo') format('woff'),
+    url('fonts/Fenix-BC.svg?y98tfo#Fenix-BC') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,48 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.fenix-icon-scooter:before {
+  content: "\e900";
+}
+.fenix-icon-motorcycle-chopper:before {
+  content: "\e901";
+}
+.fenix-icon-motorcycle-classic:before {
+  content: "\e902";
+}
+.fenix-icon-car-bus:before {
+  content: "\e905";
+}
+.fenix-icon-car-coupe:before {
+  content: "\e906";
+}
+.fenix-icon-car-mini-truck:before {
+  content: "\e921";
+}
+.fenix-icon-car-search:before {
+  content: "\e922";
+}
+.fenix-icon-car-ship:before {
+  content: "\e923";
+}
+.fenix-icon-car-subway:before {
+  content: "\e924";
+}
+.fenix-icon-car-tax:before {
+  content: "\e925";
+}
+.fenix-icon-bike-bmx:before {
+  content: "\e926";
+}
+.fenix-icon-bike-dual:before {
+  content: "\e927";
+}
+.fenix-icon-bike-folding:before {
+  content: "\e928";
+}
+.fenix-icon-bike-kids:before {
+  content: "\e929";
+}
 .fenix-icon-car-hatchback:before {
   content: "\e910";
 }
@@ -54,6 +96,7 @@
 }
 .fenix-icon-bike:before {
   content: "\e919";
+  color: #2c2a29;
 }
 .fenix-icon-motorcycle-cross:before {
   content: "\e91a";
@@ -72,9 +115,6 @@
 }
 .fenix-icon-motorcycle-trailer:before {
   content: "\e91f";
-}
-.fenix-icon-motorcycle1:before {
-  content: "\e920";
 }
 .fenix-icon-shopping-cart:before {
   content: "\e90e";

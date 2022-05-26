@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?27q6hp');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?27q6hp#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?27q6hp') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?27q6hp') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?27q6hp##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?y98tfo');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?y98tfo#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?y98tfo') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?y98tfo') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?y98tfo##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -27,6 +27,76 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.fenix-icon-scooter {
+  &:before {
+    content: $fenix-icon-scooter; 
+  }
+}
+.fenix-icon-motorcycle-chopper {
+  &:before {
+    content: $fenix-icon-motorcycle-chopper; 
+  }
+}
+.fenix-icon-motorcycle-classic {
+  &:before {
+    content: $fenix-icon-motorcycle-classic; 
+  }
+}
+.fenix-icon-car-bus {
+  &:before {
+    content: $fenix-icon-car-bus; 
+  }
+}
+.fenix-icon-car-coupe {
+  &:before {
+    content: $fenix-icon-car-coupe; 
+  }
+}
+.fenix-icon-car-mini-truck {
+  &:before {
+    content: $fenix-icon-car-mini-truck; 
+  }
+}
+.fenix-icon-car-search {
+  &:before {
+    content: $fenix-icon-car-search; 
+  }
+}
+.fenix-icon-car-ship {
+  &:before {
+    content: $fenix-icon-car-ship; 
+  }
+}
+.fenix-icon-car-subway {
+  &:before {
+    content: $fenix-icon-car-subway; 
+  }
+}
+.fenix-icon-car-tax {
+  &:before {
+    content: $fenix-icon-car-tax; 
+  }
+}
+.fenix-icon-bike-bmx {
+  &:before {
+    content: $fenix-icon-bike-bmx; 
+  }
+}
+.fenix-icon-bike-dual {
+  &:before {
+    content: $fenix-icon-bike-dual; 
+  }
+}
+.fenix-icon-bike-folding {
+  &:before {
+    content: $fenix-icon-bike-folding; 
+  }
+}
+.fenix-icon-bike-kids {
+  &:before {
+    content: $fenix-icon-bike-kids; 
+  }
+}
 .fenix-icon-car-hatchback {
   &:before {
     content: $fenix-icon-car-hatchback; 
@@ -74,7 +144,8 @@
 }
 .fenix-icon-bike {
   &:before {
-    content: $fenix-icon-bike; 
+    content: $fenix-icon-bike;     
+    color: #2c2a29;
   }
 }
 .fenix-icon-motorcycle-cross {
@@ -105,11 +176,6 @@
 .fenix-icon-motorcycle-trailer {
   &:before {
     content: $fenix-icon-motorcycle-trailer; 
-  }
-}
-.fenix-icon-motorcycle1 {
-  &:before {
-    content: $fenix-icon-motorcycle1; 
   }
 }
 .fenix-icon-shopping-cart {
