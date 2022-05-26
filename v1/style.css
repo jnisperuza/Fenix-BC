@@ -1,0 +1,1170 @@
+@font-face {
+  font-family: 'Fenix-BC';
+  src:  url('fonts/Fenix-BC.eot?y98tfo');
+  src:  url('fonts/Fenix-BC.eot?y98tfo#iefix') format('embedded-opentype'),
+    url('fonts/Fenix-BC.ttf?y98tfo') format('truetype'),
+    url('fonts/Fenix-BC.woff?y98tfo') format('woff'),
+    url('fonts/Fenix-BC.svg?y98tfo#Fenix-BC') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="fenix-icon-"], [class*=" fenix-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Fenix-BC' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fenix-icon-scooter:before {
+  content: "\e900";
+}
+.fenix-icon-motorcycle-chopper:before {
+  content: "\e901";
+}
+.fenix-icon-motorcycle-classic:before {
+  content: "\e902";
+}
+.fenix-icon-car-bus:before {
+  content: "\e905";
+}
+.fenix-icon-car-coupe:before {
+  content: "\e906";
+}
+.fenix-icon-car-mini-truck:before {
+  content: "\e921";
+}
+.fenix-icon-car-search:before {
+  content: "\e922";
+}
+.fenix-icon-car-ship:before {
+  content: "\e923";
+}
+.fenix-icon-car-subway:before {
+  content: "\e924";
+}
+.fenix-icon-car-tax:before {
+  content: "\e925";
+}
+.fenix-icon-bike-bmx:before {
+  content: "\e926";
+}
+.fenix-icon-bike-dual:before {
+  content: "\e927";
+}
+.fenix-icon-bike-folding:before {
+  content: "\e928";
+}
+.fenix-icon-bike-kids:before {
+  content: "\e929";
+}
+.fenix-icon-car-hatchback:before {
+  content: "\e910";
+}
+.fenix-icon-car-minivan:before {
+  content: "\e911";
+}
+.fenix-icon-car-pickup:before {
+  content: "\e912";
+}
+.fenix-icon-car-sedan:before {
+  content: "\e913";
+}
+.fenix-icon-car-suv:before {
+  content: "\e914";
+}
+.fenix-icon-bike-electric:before {
+  content: "\e915";
+}
+.fenix-icon-bike-mountain:before {
+  content: "\e916";
+}
+.fenix-icon-bike-road:before {
+  content: "\e917";
+}
+.fenix-icon-bike-vintage:before {
+  content: "\e918";
+}
+.fenix-icon-bike:before {
+  content: "\e919";
+  color: #2c2a29;
+}
+.fenix-icon-motorcycle-cross:before {
+  content: "\e91a";
+}
+.fenix-icon-motorcycle-quad:before {
+  content: "\e91b";
+}
+.fenix-icon-motorcycle-scooter:before {
+  content: "\e91c";
+}
+.fenix-icon-motorcycle-sport:before {
+  content: "\e91d";
+}
+.fenix-icon-motorcycle-touring:before {
+  content: "\e91e";
+}
+.fenix-icon-motorcycle-trailer:before {
+  content: "\e91f";
+}
+.fenix-icon-shopping-cart:before {
+  content: "\e90e";
+}
+.fenix-icon-loader:before {
+  content: "\e90f";
+}
+.fenix-icon-textarea:before {
+  content: "\e90d";
+}
+.fenix-icon-excel:before {
+  content: "\e90c";
+}
+.fenix-icon-check-box:before {
+  content: "\e90b";
+}
+.fenix-icon-chart-up-line:before {
+  content: "\e90a";
+}
+.fenix-icon-users-check:before {
+  content: "\e909";
+}
+.fenix-icon-eye-closed:before {
+  content: "\e907";
+}
+.fenix-icon-eye-opened:before {
+  content: "\e908";
+}
+.fenix-icon-calling:before {
+  content: "\e904";
+}
+.fenix-icon-star:before {
+  content: "\e903";
+}
+.fenix-icon-edit:before {
+  content: "\bc365";
+}
+.fenix-icon-accepted-card:before {
+  content: "\bc026";
+}
+.fenix-icon-access:before {
+  content: "\bc027";
+}
+.fenix-icon-add-money:before {
+  content: "\bc028";
+}
+.fenix-icon-add-to-car:before {
+  content: "\bc029";
+}
+.fenix-icon-add-user:before {
+  content: "\bc030";
+}
+.fenix-icon-add-square:before {
+  content: "\bc031";
+}
+.fenix-icon-add-doc:before {
+  content: "\bc032";
+}
+.fenix-icon-address-book:before {
+  content: "\bc033";
+}
+.fenix-icon-add-store:before {
+  content: "\bc034";
+}
+.fenix-icon-affinity:before {
+  content: "\bc035";
+}
+.fenix-icon-alarm:before {
+  content: "\bc036";
+}
+.fenix-icon-alert:before {
+  content: "\bc037";
+}
+.fenix-icon-align:before {
+  content: "\bc038";
+}
+.fenix-icon-align-left:before {
+  content: "\bc039";
+}
+.fenix-icon-align-left-1:before {
+  content: "\bc040";
+}
+.fenix-icon-align-right:before {
+  content: "\bc041";
+}
+.fenix-icon-amount:before {
+  content: "\bc042";
+}
+.fenix-icon-analytics:before {
+  content: "\bc043";
+}
+.fenix-icon-approving-user:before {
+  content: "\bc044";
+}
+.fenix-icon-arrow2-down:before {
+  content: "\bc045";
+}
+.fenix-icon-arrow2-left:before {
+  content: "\bc046";
+}
+.fenix-icon-arrow2-right:before {
+  content: "\bc047";
+}
+.fenix-icon-arrow2-up:before {
+  content: "\bc048";
+}
+.fenix-icon-arrow-angle-double-down:before {
+  content: "\bc049";
+}
+.fenix-icon-arrow-angle-double-left:before {
+  content: "\bc050";
+}
+.fenix-icon-arrow-angle-double-right:before {
+  content: "\bc051";
+}
+.fenix-icon-arrow-angle-double-up:before {
+  content: "\bc052";
+}
+.fenix-icon-arrow-diagonal:before {
+  content: "\bc053";
+}
+.fenix-icon-arrow-down:before {
+  content: "\bc054";
+}
+.fenix-icon-arrow-left:before {
+  content: "\bc055";
+}
+.fenix-icon-arrow-long-down:before {
+  content: "\bc056";
+}
+.fenix-icon-arrow-long-left:before {
+  content: "\bc057";
+}
+.fenix-icon-arrow-long-right:before {
+  content: "\bc058";
+}
+.fenix-icon-arrow-long-up:before {
+  content: "\bc059";
+}
+.fenix-icon-arrow-right:before {
+  content: "\bc060";
+}
+.fenix-icon-arrow-up:before {
+  content: "\bc061";
+}
+.fenix-icon-assistant:before {
+  content: "\bc062";
+}
+.fenix-icon-assistence:before {
+  content: "\bc063";
+}
+.fenix-icon-ATM:before {
+  content: "\bc064";
+}
+.fenix-icon-attachment:before {
+  content: "\bc065";
+}
+.fenix-icon-baby-bottle:before {
+  content: "\bc066";
+}
+.fenix-icon-badge:before {
+  content: "\bc067";
+}
+.fenix-icon-bank-commitments:before {
+  content: "\bc068";
+}
+.fenix-icon-bank:before {
+  content: "\bc069";
+}
+.fenix-icon-barcode:before {
+  content: "\bc070";
+}
+.fenix-icon-barcode-scan:before {
+  content: "\bc071";
+}
+.fenix-icon-basket:before {
+  content: "\bc072";
+}
+.fenix-icon-benefits:before {
+  content: "\bc073";
+}
+.fenix-icon-bill:before {
+  content: "\bc075";
+}
+.fenix-icon-birthday-cake:before {
+  content: "\bc076";
+}
+.fenix-icon-block:before {
+  content: "\bc077";
+}
+.fenix-icon-book:before {
+  content: "\bc078";
+}
+.fenix-icon-bookmark:before {
+  content: "\bc079";
+}
+.fenix-icon-building:before {
+  content: "\bc080";
+}
+.fenix-icon-bus:before {
+  content: "\bc081";
+}
+.fenix-icon-buscar-carro:before {
+  content: "\bc082";
+}
+.fenix-icon-calculator:before {
+  content: "\bc083";
+}
+.fenix-icon-calendar:before {
+  content: "\bc084";
+}
+.fenix-icon-calendar-check:before {
+  content: "\bc085";
+}
+.fenix-icon-calendar-day:before {
+  content: "\bc086";
+}
+.fenix-icon-calendar-edit:before {
+  content: "\bc087";
+}
+.fenix-icon-calendar-exclamation:before {
+  content: "\bc088";
+}
+.fenix-icon-calendar-minus:before {
+  content: "\bc089";
+}
+.fenix-icon-calendar-plus:before {
+  content: "\bc090";
+}
+.fenix-icon-calendar-premium:before {
+  content: "\bc091";
+}
+.fenix-icon-calendar-times:before {
+  content: "\bc092";
+}
+.fenix-icon-call-help:before {
+  content: "\bc093";
+}
+.fenix-icon-camera:before {
+  content: "\bc094";
+}
+.fenix-icon-capital:before {
+  content: "\bc095";
+}
+.fenix-icon-car:before {
+  content: "\bc096";
+}
+.fenix-icon-card:before {
+  content: "\bc097";
+}
+.fenix-icon-cards:before {
+  content: "\bc098";
+}
+.fenix-icon-carousel:before {
+  content: "\bc099";
+}
+.fenix-icon-car-plate:before {
+  content: "\bc100";
+}
+.fenix-icon-case .path1:before {
+  content: "\bc101";
+  color: rgb(44, 42, 41);
+}
+.fenix-icon-case .path2:before {
+  content: "\bc102";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.fenix-icon-case .path3:before {
+  content: "\bc103";
+  margin-left: -1em;
+  color: rgb(44, 42, 41);
+}
+.fenix-icon-cash:before {
+  content: "\bc104";
+}
+.fenix-icon-cash-contribution:before {
+  content: "\bc105";
+}
+.fenix-icon-cash-payment:before {
+  content: "\bc106";
+}
+.fenix-icon-channels:before {
+  content: "\bc107";
+}
+.fenix-icon-chart-lines:before {
+  content: "\bc108";
+}
+.fenix-icon-chart-pie:before {
+  content: "\bc109";
+}
+.fenix-icon-chat:before {
+  content: "\bc110";
+}
+.fenix-icon-chat-comments:before {
+  content: "\bc111";
+}
+.fenix-icon-chat-dots:before {
+  content: "\bc112";
+}
+.fenix-icon-checks:before {
+  content: "\bc113";
+}
+.fenix-icon-child:before {
+  content: "\bc114";
+}
+.fenix-icon-cinema:before {
+  content: "\bc115";
+}
+.fenix-icon-clave-dinamica:before {
+  content: "\bc116";
+}
+.fenix-icon-cloud:before {
+  content: "\bc117";
+}
+.fenix-icon-cloud-download:before {
+  content: "\bc118";
+}
+.fenix-icon-cloud-upload:before {
+  content: "\bc119";
+}
+.fenix-icon-cloudy:before {
+  content: "\bc120";
+}
+.fenix-icon-coffee:before {
+  content: "\bc121";
+}
+.fenix-icon-coin:before {
+  content: "\bc122";
+}
+.fenix-icon-comment:before {
+  content: "\bc123";
+}
+.fenix-icon-config:before {
+  content: "\bc124";
+}
+.fenix-icon-construction:before {
+  content: "\bc125";
+}
+.fenix-icon-contact-center:before {
+  content: "\bc126";
+}
+.fenix-icon-contactless:before {
+  content: "\bc127";
+}
+.fenix-icon-countdown:before {
+  content: "\bc128";
+}
+.fenix-icon-currency-exchange:before {
+  content: "\bc129";
+}
+.fenix-icon-data:before {
+  content: "\bc130";
+}
+.fenix-icon-day-to-day:before {
+  content: "\bc131";
+}
+.fenix-icon-desktop:before {
+  content: "\bc132";
+}
+.fenix-icon-direct-user:before {
+  content: "\bc133";
+}
+.fenix-icon-directions:before {
+  content: "\bc134";
+}
+.fenix-icon-document:before {
+  content: "\bc135";
+}
+.fenix-icon-document-check:before {
+  content: "\bc136";
+}
+.fenix-icon-document-delivery:before {
+  content: "\bc137";
+}
+.fenix-icon-documents:before {
+  content: "\bc138";
+}
+.fenix-icon-document-search:before {
+  content: "\bc139";
+}
+.fenix-icon-door:before {
+  content: "\bc140";
+}
+.fenix-icon-double-secondary-menu:before {
+  content: "\bc141";
+}
+.fenix-icon-download:before {
+  content: "\bc142";
+}
+.fenix-icon-download-document:before {
+  content: "\bc143";
+}
+.fenix-icon-download-file:before {
+  content: "\bc144";
+}
+.fenix-icon-e-card:before {
+  content: "\bc145";
+}
+.fenix-icon-edit-document:before {
+  content: "\bc147";
+}
+.fenix-icon-education:before {
+  content: "\bc148";
+}
+.fenix-icon-e-prepago:before {
+  content: "\bc149";
+}
+.fenix-icon-erase:before {
+  content: "\bc150";
+}
+.fenix-icon-error:before {
+  content: "\bc151";
+}
+.fenix-icon-exchange:before {
+  content: "\bc152";
+}
+.fenix-icon-expand:before {
+  content: "\bc153";
+}
+.fenix-icon-external-link:before {
+  content: "\bc154";
+}
+.fenix-icon-extinguisher:before {
+  content: "\bc155";
+}
+.fenix-icon-face-angry:before {
+  content: "\bc156";
+}
+.fenix-icon-facebook:before {
+  content: "\bc157";
+}
+.fenix-icon-face-grin-wink:before {
+  content: "\bc158";
+}
+.fenix-icon-face-grin-wink2:before {
+  content: "\bc159";
+}
+.fenix-icon-faceid:before {
+  content: "\bc160";
+}
+.fenix-icon-face-laugh:before {
+  content: "\bc161";
+}
+.fenix-icon-face-laughbeam:before {
+  content: "\bc162";
+}
+.fenix-icon-face-meh:before {
+  content: "\bc163";
+}
+.fenix-icon-face-sad:before {
+  content: "\bc164";
+}
+.fenix-icon-face-smile:before {
+  content: "\bc165";
+}
+.fenix-icon-factory-:before {
+  content: "\bc166";
+}
+.fenix-icon-factory:before {
+  content: "\bc167";
+}
+.fenix-icon-file-invoice:before {
+  content: "\bc168";
+}
+.fenix-icon-filter:before {
+  content: "\bc169";
+}
+.fenix-icon-filters:before {
+  content: "\bc170";
+}
+.fenix-icon-finantial:before {
+  content: "\bc171";
+}
+.fenix-icon-finantial-growth-indicator:before {
+  content: "\bc172";
+}
+.fenix-icon-find-doc:before {
+  content: "\bc173";
+}
+.fenix-icon-fingerprint:before {
+  content: "\bc174";
+}
+.fenix-icon-fire:before {
+  content: "\bc175";
+}
+.fenix-icon-flag:before {
+  content: "\bc176";
+}
+.fenix-icon-flight:before {
+  content: "\bc177";
+}
+.fenix-icon-flight-cancelled:before {
+  content: "\bc178";
+}
+.fenix-icon-flight-late:before {
+  content: "\bc179";
+}
+.fenix-icon-flypass:before {
+  content: "\bc180";
+}
+.fenix-icon-folder:before {
+  content: "\bc181";
+}
+.fenix-icon-food-burger:before {
+  content: "\bc182";
+}
+.fenix-icon-forward:before {
+  content: "\bc183";
+}
+.fenix-icon-gift:before {
+  content: "\bc184";
+}
+.fenix-icon-gps:before {
+  content: "\bc185";
+}
+.fenix-icon-grocery:before {
+  content: "\bc186";
+}
+.fenix-icon-hand:before {
+  content: "\bc187";
+}
+.fenix-icon-hand-button:before {
+  content: "\bc188";
+}
+.fenix-icon-hand-four-fingers:before {
+  content: "\bc189";
+}
+.fenix-icon-hand-index:before {
+  content: "\bc190";
+}
+.fenix-icon-hand-three-fingers:before {
+  content: "\bc191";
+}
+.fenix-icon-hand-top:before {
+  content: "\bc192";
+}
+.fenix-icon-hand-two-fingers:before {
+  content: "\bc193";
+}
+.fenix-icon-health:before {
+  content: "\bc194";
+}
+.fenix-icon-heart:before {
+  content: "\bc195";
+}
+.fenix-icon-help:before {
+  content: "\bc196";
+}
+.fenix-icon-holding-money:before {
+  content: "\bc197";
+}
+.fenix-icon-home:before {
+  content: "\bc198";
+}
+.fenix-icon-house:before {
+  content: "\bc199";
+}
+.fenix-icon-id:before {
+  content: "\bc200";
+}
+.fenix-icon-idea:before {
+  content: "\bc201";
+}
+.fenix-icon-id-number:before {
+  content: "\bc202";
+}
+.fenix-icon-image:before {
+  content: "\bc203";
+}
+.fenix-icon-inbox:before {
+  content: "\bc204";
+}
+.fenix-icon-info:before {
+  content: "\bc205";
+}
+.fenix-icon-insert-coin:before {
+  content: "\bc206";
+}
+.fenix-icon-instagram:before {
+  content: "\bc207";
+}
+.fenix-icon-insurance:before {
+  content: "\bc208";
+}
+.fenix-icon-international:before {
+  content: "\bc209";
+}
+.fenix-icon-invesments-add:before {
+  content: "\bc210";
+}
+.fenix-icon-invesments-withdraw:before {
+  content: "\bc211";
+}
+.fenix-icon-investment:before {
+  content: "\bc212";
+}
+.fenix-icon-language:before {
+  content: "\bc213";
+}
+.fenix-icon-laptop:before {
+  content: "\bc214";
+}
+.fenix-icon-law:before {
+  content: "\bc215";
+}
+.fenix-icon-lend:before {
+  content: "\bc216";
+}
+.fenix-icon-like:before {
+  content: "\bc217";
+}
+.fenix-icon-line-of-people:before {
+  content: "\bc218";
+}
+.fenix-icon-linkedin:before {
+  content: "\bc219";
+}
+.fenix-icon-list:before {
+  content: "\bc220";
+}
+.fenix-icon-location:before {
+  content: "\bc221";
+}
+.fenix-icon-location-marker-plus:before {
+  content: "\bc222";
+}
+.fenix-icon-lock:before {
+  content: "\bc223";
+}
+.fenix-icon-lock-open:before {
+  content: "\bc224";
+}
+.fenix-icon-login:before {
+  content: "\bc225";
+}
+.fenix-icon-luggage:before {
+  content: "\bc226";
+}
+.fenix-icon-mail:before {
+  content: "\bc227";
+}
+.fenix-icon-mail-open:before {
+  content: "\bc228";
+}
+.fenix-icon-Main-users:before {
+  content: "\bc229";
+}
+.fenix-icon-map:before {
+  content: "\bc230";
+}
+.fenix-icon-marketplace:before {
+  content: "\bc231";
+}
+.fenix-icon-medal:before {
+  content: "\bc232";
+}
+.fenix-icon-medical-assistance:before {
+  content: "\bc233";
+}
+.fenix-icon-megaphone:before {
+  content: "\bc234";
+}
+.fenix-icon-menu:before {
+  content: "\bc235";
+}
+.fenix-icon-minus:before {
+  content: "\bc236";
+}
+.fenix-icon-mixed-service:before {
+  content: "\bc237";
+}
+.fenix-icon-mobile-payment:before {
+  content: "\bc238";
+}
+.fenix-icon-modify:before {
+  content: "\bc239";
+}
+.fenix-icon-money-exchange:before {
+  content: "\bc240";
+}
+.fenix-icon-month:before {
+  content: "\bc241";
+}
+.fenix-icon-motorcycle:before {
+  content: "\bc242";
+}
+.fenix-icon-movie:before {
+  content: "\bc243";
+}
+.fenix-icon-museum:before {
+  content: "\bc244";
+}
+.fenix-icon-news:before {
+  content: "\bc245";
+}
+.fenix-icon-no-card:before {
+  content: "\bc246";
+}
+.fenix-icon-no-people:before {
+  content: "\bc247";
+}
+.fenix-icon-no-smoking:before {
+  content: "\bc248";
+}
+.fenix-icon-notification:before {
+  content: "\bc249";
+}
+.fenix-icon-no-view:before {
+  content: "\bc250";
+}
+.fenix-icon-office:before {
+  content: "\bc251";
+}
+.fenix-icon-ok:before {
+  content: "\bc252";
+}
+.fenix-icon-package:before {
+  content: "\bc253";
+}
+.fenix-icon-pass:before {
+  content: "\bc254";
+}
+.fenix-icon-password:before {
+  content: "\bc255";
+}
+.fenix-icon-pause:before {
+  content: "\bc256";
+}
+.fenix-icon-pay-with-wallet:before {
+  content: "\bc257";
+}
+.fenix-icon-pending-store:before {
+  content: "\bc258";
+}
+.fenix-icon-people:before {
+  content: "\bc259";
+}
+.fenix-icon-percentage:before {
+  content: "\bc260";
+}
+.fenix-icon-performance:before {
+  content: "\bc261";
+}
+.fenix-icon-person-walking:before {
+  content: "\bc262";
+}
+.fenix-icon-pet:before {
+  content: "\bc263";
+}
+.fenix-icon-phone-contact:before {
+  content: "\bc264";
+}
+.fenix-icon-phone-money:before {
+  content: "\bc265";
+}
+.fenix-icon-plant:before {
+  content: "\bc266";
+}
+.fenix-icon-play:before {
+  content: "\bc267";
+}
+.fenix-icon-plus:before {
+  content: "\bc268";
+}
+.fenix-icon-pocket:before {
+  content: "\bc269";
+}
+.fenix-icon-podcast:before {
+  content: "\bc270";
+}
+.fenix-icon-preferential:before {
+  content: "\bc271";
+}
+.fenix-icon-premium:before {
+  content: "\bc272";
+}
+.fenix-icon-Preparer-User:before {
+  content: "\bc273";
+}
+.fenix-icon-print:before {
+  content: "\bc274";
+}
+.fenix-icon-product-number:before {
+  content: "\bc275";
+}
+.fenix-icon-destination-product:before {
+  content: "\bc276";
+}
+.fenix-icon-origin-product:before {
+  content: "\bc277";
+}
+.fenix-icon-puntos-colombia:before {
+  content: "\bc278";
+}
+.fenix-icon-qr-add:before {
+  content: "\bc279";
+}
+.fenix-icon-qr-heart:before {
+  content: "\bc280";
+}
+.fenix-icon-qr-scan:before {
+  content: "\bc281";
+}
+.fenix-icon-qr-send:before {
+  content: "\bc282";
+}
+.fenix-icon-quit:before {
+  content: "\bc283";
+}
+.fenix-icon-receipt:before {
+  content: "\bc284";
+}
+.fenix-icon-refresh:before {
+  content: "\bc285";
+}
+.fenix-icon-remove:before {
+  content: "\bc286";
+}
+.fenix-icon-removing-card:before {
+  content: "\bc287";
+}
+.fenix-icon-reply:before {
+  content: "\bc288";
+}
+.fenix-icon-reply-all:before {
+  content: "\bc289";
+}
+.fenix-icon-restaurant:before {
+  content: "\bc290";
+}
+.fenix-icon-rocket:before {
+  content: "\bc291";
+}
+.fenix-icon-route:before {
+  content: "\bc292";
+}
+.fenix-icon-salary:before {
+  content: "\bc293";
+}
+.fenix-icon-save:before {
+  content: "\bc294";
+}
+.fenix-icon-savings:before {
+  content: "\bc295";
+}
+.fenix-icon-scooter1:before {
+  content: "\bc296";
+}
+.fenix-icon-search:before {
+  content: "\bc297";
+}
+.fenix-icon-search-charts:before {
+  content: "\bc298";
+}
+.fenix-icon-search-money:before {
+  content: "\bc299";
+}
+.fenix-icon-secondary-menu:before {
+  content: "\bc300";
+}
+.fenix-icon-secondary-menu-horizontal:before {
+  content: "\bc301";
+}
+.fenix-icon-security:before {
+  content: "\bc302";
+}
+.fenix-icon-see-balance:before {
+  content: "\bc303";
+}
+.fenix-icon-send-money:before {
+  content: "\bc304";
+}
+.fenix-icon-send-money-from:before {
+  content: "\bc305";
+}
+.fenix-icon-send-money-to:before {
+  content: "\bc306";
+}
+.fenix-icon-send-money1:before {
+  content: "\bc307";
+}
+.fenix-icon-settings:before {
+  content: "\bc308";
+}
+.fenix-icon-share:before {
+  content: "\bc309";
+}
+.fenix-icon-share-external-link:before {
+  content: "\bc310";
+}
+.fenix-icon-shield-money:before {
+  content: "\bc311";
+}
+.fenix-icon-shield-user:before {
+  content: "\bc312";
+}
+.fenix-icon-ship:before {
+  content: "\bc313";
+}
+.fenix-icon-shopping:before {
+  content: "\bc314";
+}
+.fenix-icon-shower:before {
+  content: "\bc315";
+}
+.fenix-icon-smartphone:before {
+  content: "\bc316";
+}
+.fenix-icon-smart-watch:before {
+  content: "\bc317";
+}
+.fenix-icon-sobregiro:before {
+  content: "\bc318";
+}
+.fenix-icon-sort:before {
+  content: "\bc319";
+}
+.fenix-icon-sound-off:before {
+  content: "\bc320";
+}
+.fenix-icon-sound-on:before {
+  content: "\bc321";
+}
+.fenix-icon-spinner:before {
+  content: "\bc322";
+}
+.fenix-icon-square:before {
+  content: "\bc323";
+}
+.fenix-icon-stethoscope:before {
+  content: "\bc324";
+}
+.fenix-icon-stock-exchange:before {
+  content: "\bc325";
+}
+.fenix-icon-stocks:before {
+  content: "\bc326";
+}
+.fenix-icon-stone:before {
+  content: "\bc327";
+}
+.fenix-icon-store:before {
+  content: "\bc328";
+}
+.fenix-icon-subway:before {
+  content: "\bc329";
+}
+.fenix-icon-successful:before {
+  content: "\bc330";
+}
+.fenix-icon-sunny:before {
+  content: "\bc331";
+}
+.fenix-icon-swimming:before {
+  content: "\bc332";
+}
+.fenix-icon-tag-price:before {
+  content: "\bc333";
+}
+.fenix-icon-tag-sale:before {
+  content: "\bc334";
+}
+.fenix-icon-target:before {
+  content: "\bc335";
+}
+.fenix-icon-taxes:before {
+  content: "\bc336";
+}
+.fenix-icon-temperature:before {
+  content: "\bc337";
+}
+.fenix-icon-thumbs-down:before {
+  content: "\bc338";
+}
+.fenix-icon-thumbs-up:before {
+  content: "\bc339";
+}
+.fenix-icon-thumbtack:before {
+  content: "\bc340";
+}
+.fenix-icon-time:before {
+  content: "\bc341";
+}
+.fenix-icon-token:before {
+  content: "\bc342";
+}
+.fenix-icon-trophy:before {
+  content: "\bc343";
+}
+.fenix-icon-turn:before {
+  content: "\bc344";
+}
+.fenix-icon-twitter:before {
+  content: "\bc345";
+}
+.fenix-icon-umbrella-beach:before {
+  content: "\bc346";
+}
+.fenix-icon-undo-payment:before {
+  content: "\bc347";
+}
+.fenix-icon-unemployment:before {
+  content: "\bc348";
+}
+.fenix-icon-upload:before {
+  content: "\bc349";
+}
+.fenix-icon-User-check:before {
+  content: "\bc350";
+}
+.fenix-icon-user:before {
+  content: "\bc351";
+}
+.fenix-icon-value:before {
+  content: "\bc352";
+}
+.fenix-icon-variations:before {
+  content: "\bc353";
+}
+.fenix-icon-view:before {
+  content: "\bc354";
+}
+.fenix-icon-vip:before {
+  content: "\bc355";
+}
+.fenix-icon-walk:before {
+  content: "\bc356";
+}
+.fenix-icon-wallet:before {
+  content: "\bc357";
+}
+.fenix-icon-whatsapp:before {
+  content: "\bc358";
+}
+.fenix-icon-window-analytics:before {
+  content: "\bc359";
+}
+.fenix-icon-withdraw-cash:before {
+  content: "\bc360";
+}
+.fenix-icon-wrench:before {
+  content: "\bc361";
+}
+.fenix-icon-youtube:before {
+  content: "\bc362";
+}
+.fenix-icon-zoom-minus:before {
+  content: "\bc363";
+}
+.fenix-icon-zoom-plus:before {
+  content: "\bc364";
+}
